@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav1111111
 - 👀 I’m interested in Astronomy, Maths and CS ..
-- 🌱 I’m currently learning .Data Science.{Tableau}.
+- 🌱 I’m currently learning .Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .Through my Mail-gj979986@gmail.com..
 
