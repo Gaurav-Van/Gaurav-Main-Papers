@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gaurav1111111
+- 👋 Hi, I’m Gaurav 
 - 👀 I’m interested in Astronomy, Maths and CS ..
 - 🌱 I’m currently learning .Data Science 
 - 💞️ I’m looking to collaborate on ...
