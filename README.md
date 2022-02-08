@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav 
-- 👀 I’m interested in Astronomy, Maths and CS ..
-- 🌱 I’m currently learning .Data Science 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Astronomy, Maths and Data Science / Research ..
+- 🌱 I’m currently learning Data Science 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me .Through my Mail-gj979986@gmail.com..
 
 <!---
